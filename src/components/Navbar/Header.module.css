@@ -1,0 +1,9 @@
+.brand-text {
+    font-weight: 700;
+  }
+  .nav-link {
+    margin: 20px;
+    text-align: center;
+    border: 2px solid transparent;
+    border-radius: 1rem;
+  }
